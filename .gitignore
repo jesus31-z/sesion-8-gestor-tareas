@@ -1,0 +1,16 @@
+Entorno virtual
+
+.venv/
+
+Variables de entorno (¡NO SUBIR!)
+
+.env
+
+Archivos de caché de Python
+
+pycache/
+*.pyc
+
+Configuración del editor
+
+.vscode/
